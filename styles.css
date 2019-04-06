@@ -1,3 +1,17 @@
 #main-container {
     text-align: center;
 }
+
+#results {
+    list-style: none;
+}
+
+li {
+    margin-top: 20px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    margin-top: 5px;
+}
